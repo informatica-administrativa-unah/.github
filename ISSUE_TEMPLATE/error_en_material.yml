@@ -1,0 +1,41 @@
+name: Error en el material
+description: Algo está mal en la teoría, un ejemplo, un ejercicio, una solución o un enlace.
+title: "Error: "
+labels: ["error en material"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por avisar. Con estos datos lo podemos encontrar y corregir rápido.
+        Si es una duda y no un error, mejor preguntá en Discussions.
+  - type: input
+    id: archivo
+    attributes:
+      label: Archivo
+      description: La ruta del archivo, o el enlace de GitHub a la línea.
+      placeholder: 03_Subneteo/soluciones/soluciones_03.md
+    validations:
+      required: true
+  - type: textarea
+    id: que_esta_mal
+    attributes:
+      label: Qué está mal
+      description: Copiá la parte con el error y explicá qué no cuadra.
+    validations:
+      required: true
+  - type: textarea
+    id: como_deberia
+    attributes:
+      label: Cómo debería ser
+      description: Si sabés la corrección, escribila. Si es un cálculo o una consulta, mostrá cómo lo comprobaste.
+    validations:
+      required: false
+  - type: dropdown
+    id: pr
+    attributes:
+      label: ¿Querés mandar vos la corrección?
+      options:
+        - Sí, mando un pull request
+        - No, prefiero que lo corrija alguien más
+    validations:
+      required: true

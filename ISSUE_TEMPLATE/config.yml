@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Preguntas y dudas sobre el material
+    url: https://github.com/orgs/informatica-administrativa-unah/discussions
+    about: Las preguntas van a Discussions, donde cualquiera de la comunidad puede responder y queda para los demás.

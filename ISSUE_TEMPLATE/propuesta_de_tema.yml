@@ -1,0 +1,50 @@
+name: Propuesta de tema o ejercicio
+description: Un tema nuevo, un ejercicio, un caso o un recurso que le haría falta a la carrera.
+title: "Propuesta: "
+labels: ["propuesta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de escribir mucho, abrí la propuesta para platicarla. Así nadie trabaja doble.
+        Recordá: el material es propio o de fuentes públicas citadas. Nada de presentaciones de docentes, libros con derechos de autor ni tareas de clases en curso.
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué proponés
+      description: El tema, ejercicio o caso, en dos o tres líneas.
+    validations:
+      required: true
+  - type: textarea
+    id: para_que
+    attributes:
+      label: Para qué sirve
+      description: En qué clase, examen o trabajo te hizo falta.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes públicas
+      description: Documentación oficial, RFC, guías públicas u otras fuentes libres que usarías.
+    validations:
+      required: false
+  - type: checkboxes
+    id: reglas
+    attributes:
+      label: Reglas de la comunidad
+      options:
+        - label: Lo voy a escribir con mis palabras, sin copiar material con derechos de autor.
+          required: true
+        - label: No es una tarea ni un examen de una clase en curso.
+          required: true
+  - type: dropdown
+    id: quien
+    attributes:
+      label: ¿Lo escribís vos?
+      options:
+        - Sí, yo lo escribo
+        - Lo puedo empezar y necesito ayuda
+        - Solo es la idea
+    validations:
+      required: true

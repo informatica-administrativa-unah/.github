@@ -1,0 +1,32 @@
+name: Pregunta sobre un repo
+description: Para dudas sobre cómo usar un repo (el revisor, la plantilla, Codespaces). Las dudas del contenido van mejor en Discussions.
+title: "Pregunta: "
+labels: ["pregunta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Si tu duda es sobre el contenido (por qué una subred da tal resultado, cómo se arma un hallazgo), preguntá en
+        [Discussions](https://github.com/orgs/informatica-administrativa-unah/discussions): ahí responde más gente y la respuesta le sirve a los demás.
+        Usá este formulario si algo del repo no funciona como dice el README.
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: Tu pregunta
+    validations:
+      required: true
+  - type: textarea
+    id: que_probaste
+    attributes:
+      label: Qué probaste
+      description: Comandos que corriste y lo que salió. Pegá el texto, no una foto de la pantalla.
+      render: text
+    validations:
+      required: false
+  - type: input
+    id: entorno
+    attributes:
+      label: Dónde lo corriste
+      placeholder: Windows 11 con Python 3.12, o Codespaces
+    validations:
+      required: false
