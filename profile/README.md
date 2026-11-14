@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/informatica-administrativa-unah/.github/main/profile/marca/logo-512.png" alt="Logo de la comunidad Informática Administrativa UNAH" width="180"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/informatica-administrativa-unah/.github/main/profile/marca/logo-1024.png" alt="Logo de la comunidad Informática Administrativa UNAH" width="180"></p>
 
 # Informática Administrativa UNAH
 
