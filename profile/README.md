@@ -66,4 +66,4 @@ El material se comparte con licencia MIT: lo podés usar y adaptar, también en 
 
 ## Sobre el logo
 
-El logo es propio de la comunidad: una base de datos y un gráfico de barras, con los colores azul y dorado. No es el logo oficial de la carrera ni de la UNAH. Los archivos y el script con el que se dibuja están en `profile/marca/`.
+El logo es propio de la comunidad: un sello azul noche con dos anillos azules, el nombre de la carrera arriba, UNAH CU abajo y en el centro una base de datos con un gráfico de barras. No es el logo oficial de la carrera ni de la UNAH. Los archivos y el script con el que se dibuja están en `profile/marca/`.
