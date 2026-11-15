@@ -6,6 +6,20 @@ Somos una comunidad de estudiantes de la carrera de Informática Administrativa 
 
 Esta no es una cuenta oficial de la UNAH. No la administra la universidad, ni la facultad, ni ningún docente. La armamos estudiantes, por nuestra cuenta, y cualquiera de la carrera puede sumarse.
 
+## Empezá por aquí
+
+Todo se lee desde el navegador, sin instalar nada. Si buscás algo puntual, estos son los temas que más se usan:
+
+| Tema | Directo al contenido |
+|---|---|
+| Recursos gratis para la carrera | [Libros, cursos y herramientas](https://github.com/informatica-administrativa-unah/recursos) |
+| Redes | [Subneteo paso a paso](https://github.com/informatica-administrativa-unah/redes/blob/main/03_Subneteo/teoria.md) · [VLSM con casos resueltos](https://github.com/informatica-administrativa-unah/redes/blob/main/04_VLSM/teoria.md) · [Laboratorios de Packet Tracer](https://github.com/informatica-administrativa-unah/redes/tree/main/laboratorios) |
+| SQL | [JOINs con ejemplos](https://github.com/informatica-administrativa-unah/sql-de-cero-a-avanzado/blob/main/05_JOINs/teoria.md) · [GROUP BY y agregaciones](https://github.com/informatica-administrativa-unah/sql-de-cero-a-avanzado/blob/main/04_Funciones_de_agregacion_y_GROUP_BY/teoria.md) |
+| Auditoría informática | [Plantilla de plan de auditoría](https://github.com/informatica-administrativa-unah/auditoria-informatica/blob/main/plantillas/plan_de_auditoria.md) · [Caso completo resuelto](https://github.com/informatica-administrativa-unah/auditoria-informatica/blob/main/caso_resuelto/README.md) |
+| Ciberseguridad | [ISO 27002 explicada con casos](https://github.com/informatica-administrativa-unah/ciberseguridad-e-iso-27002/blob/main/04_Controles_e_ISO_27002/teoria.md) · [Qué hacer ante un incidente](https://github.com/informatica-administrativa-unah/ciberseguridad-e-iso-27002/blob/main/07_Respuesta_a_incidentes/teoria.md) |
+
+Si te sirvió, seguí la comunidad o dale una estrella a los repos. Así le llega a más compañeros.
+
 ## Qué hay
 
 | Repo | Qué tiene |
