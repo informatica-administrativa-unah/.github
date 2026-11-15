@@ -64,10 +64,8 @@ Cada repo tiene su README con los detalles. Si es tu primer pull request, te rec
 
 El material se comparte con licencia MIT: lo podés usar y adaptar, también en tus clases o tutorías, dejando el aviso de la licencia.
 
-## Quién la empezó
-
-La comunidad la arrancó [James V (@Dio77799)](https://github.com/Dio77799), estudiante de la carrera, y la vamos haciendo crecer entre todos. Si querés ayudar a mantenerla, escribile o abrí una propuesta.
-
 ## Sobre el logo
 
 El logo es propio de la comunidad: un sello azul noche con dos anillos azules, el nombre de la carrera arriba, UNAH CU abajo y en el centro una base de datos con un gráfico de barras. No es el logo oficial de la carrera ni de la UNAH. Los archivos y el script con el que se dibuja están en `profile/marca/`.
+
+ Vamos haciendo crecer entre todos la comunidad. Si querés ayudar a mantenerla, escribile o abrí una propuesta.
